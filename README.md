@@ -1,4 +1,4 @@
-# DAPO: An Open-Source State-of-The-Art LLM Reinforcement Learning System
+# ReTool: Reinforcement Learning for Strategic Tool Use in LLMs
 This website is adapted from <a href="https://nerfies.github.io/">Nerfies</a>.
 
 # Website License
